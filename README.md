@@ -8,3 +8,6 @@ YOU NEED TO download python here----> https://www.python.org/downloads/release/p
 
 
 DONE
+
+
+(Skibkid420 is my discord username)
