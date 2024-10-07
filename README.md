@@ -9,5 +9,6 @@ YOU NEED TO download python here----> https://www.python.org/downloads/release/p
 
 DONE
 
+this can only be used if everyone is on the same network
 
 (Skibkid420 is my discord username)
