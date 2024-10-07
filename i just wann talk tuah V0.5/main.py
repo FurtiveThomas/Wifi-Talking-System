@@ -24,7 +24,7 @@ def run_server():
 
 # Function to connect to the server
 def connect_to_server():
-    sio.connect('http://192.168.86.250:5000')  # Updated connection URL
+    sio.connect('http://{put_your_ip_here}:5000')  # Updated connection URL
 
 # Function to send a message
 def send_message():
