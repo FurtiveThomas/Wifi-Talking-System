@@ -44,4 +44,4 @@ def handle_new_message(data):
 
 if __name__ == '__main__':
     init_db()
-    socketio.run(app, host='192.168.86.250', port=5000, debug=False)
+    socketio.run(app, host='{put_your_ip_here}', port=5000, debug=False)
